@@ -5,5 +5,5 @@ function mOver(mouseOver)
 
 function mOut(mouseOver)
 {
-  mouseOver.style.background = #424242;
+  mouseOver.style.background = "#424242";
 }
